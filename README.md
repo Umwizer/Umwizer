@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Umwizerwa
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning backend at shecancode
-- 💞️ I’m looking to collaborate on ...js
+- 👀 I’m Software development  proficient in backend development using Node.js, Express.js, PHP, MongoDB, and MySQL
+- 🌱 I’m currently learning student at Alx Africa as frontend developer
+- 👯 I’m open to opportunities.
+- 💻 Languages and Tools: Languages: CSS3, HTML5, JavaScript,PHP, NodeJS Tools: Visual Studio Code, Git, JSON, MongoDB, MySQL 
 - 📫 How to reach me ruthumwizerwa@gmail.com
 - 😄 Pronouns: ...she
-- ⚡ Fun fact: ...
 
 <!---
 Umwizer/Umwizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
