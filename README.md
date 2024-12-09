@@ -4,8 +4,8 @@
 💬 Ask me about Express and NodeJS.
 - 📫 How to reach me ruthumwizerwa@gmail.com
 ⚡ Fun fact People think I'm very serious But...
-Languages and Tools:
-c css3 express html5 javascript  mongodb nodejs react
+
+Languages and Tools:c css3 express html5 javascript  node js react MongoDB
 
 <!---
 Umwizer/Umwizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
