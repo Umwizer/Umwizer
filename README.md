@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Umwizerwa
-- 👀 I’m FULL STACK DEVELOPER  proficient in backend development using Node.js, Express.js, PHP, MongoDB, and MySQL
-- 🌱 I’m currently learning student at AUCA IN SOFTWARE ENGINEERING
-- 👯 I’m open to opportunities.
-- 💻 Languages and Tools: Languages: CSS3, HTML5, JavaScript,PHP, NodeJS Tools: Visual Studio Code, Git, JSON, MongoDB, MySQL 
+- A passionate about Full Stack Development, I'm Rwandan and currently based in Kigali
+- I’m currently learning ReactJS
+💬 Ask me about Express and NodeJS.
 - 📫 How to reach me ruthumwizerwa@gmail.com
-- 😄 Pronouns: ...she
+⚡ Fun fact People think I'm very serious But...
 
 <!---
 Umwizer/Umwizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
