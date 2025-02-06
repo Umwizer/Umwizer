@@ -3,9 +3,6 @@
 - I’m currently learning ReactJS
 💬 Ask me about Express and NodeJS.
 - 📫 How to reach me ruthumwizerwa@gmail.com
-  
--⚡ Fun fact People think I'm very serious But...
-
 -Languages and Tools:c css3 express html5 javascript  node js react MongoDB
 
 <!---
