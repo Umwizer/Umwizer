@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Umwizerwa, and I'm a SOFTWARE ENGINEER from, RWANDA </p>
+<p align="left">My name is Umwizerwa, and I'm a SOFTWARE ENGINEER from RWANDA </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning ReactJs & ReactNative<br>🎯 Goals: making tech simpler, smarter, and more powerful every day <br>🎲 Fun fact: git blame doesn’t actually blame—it just kindly tells you who messed up! 🤣</p>
 
 ###
 
