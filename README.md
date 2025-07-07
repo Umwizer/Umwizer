@@ -2,11 +2,13 @@
 
 ###
 <p align="left">
-My name is Umwizerwa, and I'm a JUNIOR SOFTWARE ENGINEER mastering in Backend development from RWANDA. <br>
-🎓 I'm an AUCA student majoring in Software Engineering. <br>
-💻 I code in Node.js, JavaScript, HTML, CSS, and TypeScript. <br>
-🚀 Currently learning React to build powerful web applications.
+
+My name is Umwizerwa, a Junior Software Engineer from Rwanda, specializing in backend development. <br>
+🎓 I’m currently pursuing a degree in Software Engineering at AUCA. <br>
+💻 I work with technologies like Node.js, JavaScript, HTML, CSS, Tailwind CSS, and TypeScript. <br>
+🚀 I'm currently learning React to build dynamic and modern web applications.
 </p>
+
 ###
 
 
