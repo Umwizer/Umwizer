@@ -1,7 +1,16 @@
+# 👋 Hi, I'm Ruth Umwizerwa
+## 🚀 About Me
+I'm a junior developer passionate about building web applications using React. I constantly learn and explore new front-end technologies to enhance my skills and contribute to exciting projects.
 
-# 💫 About Me:
-<br>I'm currently working on advancing in React.<br>I'm looking to collaborate on backend projects.<br>I'm currently learning React Router and React Redux.<br>Ask me about Node.js.<br>I'm currently working on advancing in React.
+## 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript, HTML, CSS
+- **backend:** Node, JavaScript(ES6+), Express, MongoDb
+- **Tools:** Git, GitHub, VS Code, npm, Webpack
 
+## 🌱 Currently Learning
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1368177820907339878) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umwizerwa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://discord.com/channels/@me/1368177820907339878) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruthumwizerwa@gmail.com) 
