@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ruth Umwizerwa
 ## 🚀 About Me
-I'm a junior developer passionate about building web applications using React. I constantly learn and explore new front-end technologies to enhance my skills and contribute to exciting projects.
+I'm a junior developer passionate about building web applications using **React** and **Node.js**. I constantly learn and explore new front-end and back-end technologies to enhance my skills and contribute to exciting projects.
+
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS
