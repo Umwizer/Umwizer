@@ -1,35 +1,20 @@
 👋 Hi, I'm Ruth Umwizerwa
 About Me
 
-I'm a Software Engineering student and aspiring full-stack/backend developer. I’m passionate about building robust web applications and enterprise systems using Node.js and Spring Boot, and constantly learning cloud deployment and system design to enhance my skills and contribute to impactful projects.
+Junior Software Engineer passionate about full-stack development with Node.js and Spring Boot. I focus on building web and backend systems, learning cloud deployment, and improving coding skills daily.
 
 🛠️ Technologies & Tools
-
 Frontend: React, JavaScript (ES6+), HTML, CSS, Tailwind CSS
-
 Backend: Node.js, Express.js, MongoDB, PostgreSQL, Java, Spring Boot
-
-Cloud & DevOps: Docker, AWS (EC2, S3), CI/CD basics
-
+Cloud & DevOps: Docker,  CI/CD basics
 Tools: Git, GitHub, VS Code, npm, Webpack
 
 🌱 Currently Learning
+Advanced React concepts & Redux
+Node.js & Spring Boot backend
+Cloud deployment (AWS, Docker)
+System design & scalable architectures
 
-Advanced React concepts and state management (Redux)
-
-Backend development: Node.js advanced patterns & Spring Boot
-
-Cloud deployment and CI/CD pipelines
-
-System design, microservices, and scalable architecture
-
-🚀 Goals
-
-Build and deploy full-stack web applications using Node.js and Spring Boot
-
-Gain proficiency in cloud technologies and backend system design
-
-Maintain a healthy balance between learning, coding projects, and personal development
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1368177820907339878) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umwizerwa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://discord.com/channels/@me/1368177820907339878) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruthumwizerwa@gmail.com) 
