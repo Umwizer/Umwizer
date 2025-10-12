@@ -1,20 +1,20 @@
-👋 Hi, I'm Ruth Umwizerwa
+# 👋 Hi, I'm Ruth Umwizerwa
 
-About Me
+## About Me
+Junior Software Engineer passionate about **full-stack development** with **Node.js** and **Spring Boot**. I focus on building **web and backend systems**, learning **cloud deployment**, and improving my coding skills daily.
 
-Junior Software Engineer passionate about full-stack development with Node.js and Spring Boot. I focus on building web and backend systems, learning cloud deployment, and improving coding skills daily.
+## 🛠️ Technologies & Tools
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Java, Spring Boot  
+- **Cloud & DevOps:** Docker, CI/CD basics  
+- **Tools:** Git, GitHub, VS Code, npm, Webpack  
 
-🛠️ Technologies & Tools
-Frontend: React, JavaScript (ES6+), HTML, CSS, Tailwind CSS
-Backend: Node.js, Express.js, MongoDB, PostgreSQL, Java, Spring Boot
-Cloud & DevOps: Docker,  CI/CD basics
-Tools: Git, GitHub, VS Code, npm, Webpack
+## 🌱 Currently Learning
+- Advanced React concepts & Redux  
+- Node.js & Spring Boot backend development  
+- Cloud deployment (AWS, Docker)  
+- System design & scalable architectures
 
-🌱 Currently Learning
-Advanced React concepts & Redux
-Node.js & Spring Boot backend
-Cloud deployment (AWS, Docker)
-System design & scalable architectures
 
 
 ## 🌐 Socials:
