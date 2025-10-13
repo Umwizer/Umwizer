@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ruth Umwizerwa
 
-## About Me
-Junior Software Engineer passionate about **full-stack development** with **Node.js** and **Spring Boot**. I focus on building **web and backend systems**, learning **cloud deployment**, and improving my coding skills daily.
+## About ME
+## Junior Software Engineer passionate about backend development and cloud technologies, with hands-on experience in Node.js and Spring Boot. Currently expanding into full-stack development with React, building web and backend systems, and improving my coding skills daily.
+
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind CSS  
