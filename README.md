@@ -16,7 +16,8 @@ Full-Stack Software Engineer skilled in React, Node.js,  passionate about backen
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umwizerwa_) [![LinkedIn](https://www.linkedin.com/in/umwizerwa-ruth-292aa92b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruthumwizerwa@gmail.com) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umwizerwa_) [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/umwizerwa-ruth-292aa92b6/)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruthumwizerwa@gmail.com) 
 
 # 💻 Tech Stack:
 # 🛠️ My Tech Stack
