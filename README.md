@@ -61,7 +61,6 @@ Full-Stack Software Engineer skilled in React, Node.js,  passionate about backen
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Umwizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Umwizer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umwizer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
