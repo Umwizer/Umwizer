@@ -9,7 +9,7 @@ Full-Stack Software Engineer skilled in React, Node.js,  passionate about backen
 - **Tools:** Git, GitHub, VS Code, npm, Webpack  
 
 ## 🌱 Currently Learning
-- Advanced React concepts & Redux  
+- Java,OOP in Java
 - Node.js 
 - System design & scalable architectures
 - C , C++ Advanced concepts
