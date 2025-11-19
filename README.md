@@ -12,6 +12,7 @@ Full-Stack Software Engineer skilled in React, Node.js,  passionate about backen
 - Advanced React concepts & Redux  
 - Node.js 
 - System design & scalable architectures
+- C , C++ Advanced concepts
 
 
 
