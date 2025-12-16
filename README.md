@@ -65,6 +65,5 @@ Full-Stack Software Engineer skilled in React, Node.js,  passionate about backen
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umwizer&theme=dark&layout=compact)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umwizer&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
