@@ -53,13 +53,7 @@
 
 ---
 
-### 📊 Weekly Development Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umwizer&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=4F8CC9&line=4F8CC9&point=ffffff" alt="Activity Graph" width="100%" />
-</p>
-
----
 
 ### 📈 GitHub Stats
 
