@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umwizerwa Ruth</h1>
 <h3 align="center">Full-Stack Software Engineer skilled in React, Node.js, passionate about backend and cloud development, building scalable and reliable web systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umwizer" alt="umwizer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umwizer" alt="umwizer" />https://github.com/Umwizer</a> </p>
 
 - 📫 How to reach me **ruthumwizerwa@gmail.com**
 
