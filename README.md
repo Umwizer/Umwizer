@@ -58,19 +58,13 @@ I am passionate about:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
   <img width="48%" 
        src="https://streak-stats.demolab.com/?user=umwizer&theme=radical&hide_border=true&fire=4F8CC9&ring=4F8CC9" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💻 Top Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ### 🏆 Codewars & Problem Solving
 
