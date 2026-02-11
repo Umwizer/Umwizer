@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Building+scalable+and+reliable+web+systems;Cloud+Enthusiast+%7C+Backend+Specialist;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
----
-
-
----
-
 ### 🛠️ Tech Stack
 
 #### **Frontend & UI**
@@ -48,22 +43,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
-
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F8CC9&sideLabels=ffffff&dates=9e9e9e" alt="GitHub Streak" />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8&exclude_repo=blog,portfolio,personal-website&hide=TeX,SCSS,Less,Makefile" alt="Top Languages" width="60%" />
-</p>
+---<p align="center"> <!-- GitHub Stats Card --> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="GitHub Stats" /> <!-- GitHub Streak Stats --> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F8CC9&sideLabels=ffffff&dates=9e9e9e" alt="GitHub Streak" /> </p>
+💻 Top Languages
+<p align="center"> <!-- Top Languages Card --> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8" alt="Top Languages" /> </p>
+📫 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/umwizerwa-ruth-292aa92b6/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:ruthumwizerwa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p><p align="center"> <!-- Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=umwizer&label=Profile%20Views&color=4F8CC9&style=flat" alt="Profile Views" /> </p>
 
 ### 📫 Let's Connect
 
