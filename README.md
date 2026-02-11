@@ -59,9 +59,9 @@ I am passionate about:
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="GitHub Stats" />
+       src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9" alt="GitHub Streak" />
+       src="https://streak-stats.demolab.com/?user=umwizer&theme=radical&hide_border=true&fire=4F8CC9&ring=4F8CC9" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,10 +69,8 @@ I am passionate about:
 ### 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
----
 
 ### 🏆 Codewars & Problem Solving
 
