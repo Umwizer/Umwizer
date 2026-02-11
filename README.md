@@ -69,17 +69,14 @@ I am passionate about:
 ### 💻 Top Languages
 
 <p align="center">
-  <img width="60%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8&cache_seconds=86400" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact)
 
----
 
-### 🧠 Codewars & Problem Solving
+###  Codewars & Problem Solving
 
 <p align="center">
   <a href="https://www.codewars.com/users/umwizer" target="_blank">
-    <img src="https://www.codewars.com/users/umwizer/badges/large" alt="Codewars Badge" />
+    <img src="https://www.codewars.com/users/Umwizerwa-ruth" alt="Codewars Badge" />
   </a>
 </p>
 
