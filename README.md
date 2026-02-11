@@ -59,9 +59,9 @@ I am passionate about:
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff&cache_seconds=86400" />
+       src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="GitHub Stats" />
   <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&cache_seconds=86400" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,14 +69,16 @@ I am passionate about:
 ### 💻 Top Languages
 
 <p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
-###  Codewars & Problem Solving
+### 🏆 Codewars & Problem Solving
 
 <p align="center">
-  <a href="https://www.codewars.com/users/umwizer" target="_blank">
-    <img src="https://www.codewars.com/users/Umwizerwa-ruth" alt="Codewars Badge" />
+  <a href="https://www.codewars.com/users/Umwizerwa-ruth" target="_blank">
+    <img src="https://www.codewars.com/users/Umwizerwa-ruth/badges/large" alt="Codewars Badge" />
   </a>
 </p>
 
@@ -86,17 +88,17 @@ I am passionate about:
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umwizerwa-ruth-292aa92b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ruthumwizerwa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umwizer&label=Profile%20Views&color=4F8CC9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=umwizer&label=Profile%20Views&color=4F8CC9&style=flat" alt="Profile Views" />
 </p>
