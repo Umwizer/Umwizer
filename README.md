@@ -4,21 +4,21 @@ Full-Stack Software Engineer • React & Node.js • Backend & Cloud Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Backend-first+mindset+with+frontend+excellence;Clean+Code+Advocate+%7C+Problem+Solver;Passionate+about+Cloud+and+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;Backend-first+mindset+with+frontend+excellence;Clean+Code+Advocate+%7C+Problem+Solver;Passionate+about+Cloud+and+System+Design" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩🏽‍💻 About Me
 
-I am a **Full-Stack Software Engineer** with a strong focus on **backend development, system reliability, and scalable web architectures**.  
-I enjoy designing clean APIs, writing maintainable code, and building user-centered applications with modern frontend technologies.
+I am a **Full-Stack Software Engineer** with a strong interest in **backend development, system reliability, and scalable architectures**.  
+I enjoy building clean APIs, solving complex problems, and creating maintainable systems using modern technologies.
 
-I’m particularly interested in:
+I am passionate about:
 - Backend & API engineering  
 - Cloud-native applications  
-- Performance optimization & clean architecture  
-- Continuous learning and best engineering practices  
+- Clean code & best practices  
+- Continuous learning through real-world projects and coding challenges  
 
 ---
 
@@ -58,8 +58,10 @@ I’m particularly interested in:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9" alt="GitHub Streak" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff&cache_seconds=86400" />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&cache_seconds=86400" />
 </p>
 
 ---
@@ -67,7 +69,22 @@ I’m particularly interested in:
 ### 💻 Top Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="60%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+</p>
+
+---
+
+### 🧠 Codewars & Problem Solving
+
+<p align="center">
+  <a href="https://www.codewars.com/users/umwizer" target="_blank">
+    <img src="https://www.codewars.com/users/umwizer/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
+
+<p align="center">
+  Solved algorithmic challenges using <strong>JavaScript, Python, and logical problem-solving patterns</strong>.
 </p>
 
 ---
