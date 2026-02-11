@@ -7,9 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umwizer&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="umwizer" />
-</p>
 
 ---
 
@@ -58,16 +55,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="umwizer's GitHub Stats" />
-  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umwizer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=ffffff" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umwizer&theme=dark&hide_border=true&background=0d1117&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4F8CC9&sideLabels=ffffff&dates=9e9e9e" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8&exclude_repo=blog,portfolio,personal-website&hide=TeX,SCSS,Less,Makefile" alt="Top Languages" />
-</p>
+### 💻 Most Used Languages
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umwizer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4F8CC9&text_color=ffffff&langs_count=8&exclude_repo=blog,portfolio,personal-website&hide=TeX,SCSS,Less,Makefile" alt="Top Languages" width="60%" />
+</p>
 
 ### 📫 Let's Connect
 
