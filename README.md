@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umwizerwa Ruth</h1>
+<h1 align="center">Hi, I'm Umwizerwa Ruth</h1>
 <h3 align="center">
 Full-Stack Software Engineer • React & Node.js • Backend & Cloud Enthusiast
 </h3>
