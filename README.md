@@ -21,7 +21,9 @@ Tools: Git, GitHub, VS Code, npm, Docker
 
 ### 🌱 Currently learning
 Mobile development with React Native
+
 Backend with SpringBoot
+
 DSA
 
 ### 🏆 Codewars & Problem Solving
