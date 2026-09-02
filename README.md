@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;Backend-first+mindset+with+frontend+excellence;Clean+Code+Advocate+%7C+Problem+Solver;Passionate+about+Cloud+and+System+Design" alt="Typing SVG" />
 </p>
-
----
-
 ### 👩🏽‍💻 About Me
 
 I am a **Full-Stack Software Engineer** with a strong interest in **backend development, system reliability, and scalable architectures**.  
@@ -19,9 +16,7 @@ Tools: Git, GitHub, VS Code, npm, Docker
 
 ### 🌱 Currently learning
 Mobile development with React Native
-
 Backend with SpringBoot
-
 DSA
 
 ### 🏆 Codewars & Problem Solving
