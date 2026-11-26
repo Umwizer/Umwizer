@@ -8,11 +8,9 @@
 
 ### 👩🏽‍💻 About Me
 
-I am a **Junior Software Engineer** and Software Engineering student at the Adventist University of Central Africa (AUCA), passionate about building software solutions that solve real-world problems.
+I am a **Junior Software Engineer** and a Software Engineering student at AUCA. I enjoy building applications, solving problems, and working with different technologies, with a growing focus on **backend development, software testing, and system design**.
 
-I enjoy developing applications, working with APIs and databases, solving technical problems, and understanding how systems work behind the scenes. I am particularly interested in **backend development, software testing, and building reliable and maintainable systems**.
-
-I believe in learning through practical experience, continuous improvement, and building solutions that make a difference.
+I believe in learning by building, experimenting, and continuously improving my skills.
 
 ### 🛠️ Tech Stack
 
